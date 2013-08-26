@@ -1,0 +1,1214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"line",
+				"lines"
+			],
+			[
+				"tile",
+				"tileSize"
+			],
+			[
+				"spa",
+				"spawnPosY"
+			],
+			[
+				"sp",
+				"spawnPosX"
+			],
+			[
+				"res",
+				"respawn"
+			],
+			[
+				"col",
+				"collidesWith"
+			],
+			[
+				"breath",
+				"breathTimer"
+			],
+			[
+				"brea",
+				"breathTimer"
+			],
+			[
+				"rand",
+				"randX"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ani",
+				"animFrame"
+			],
+			[
+				"anim",
+				"animTimer"
+			],
+			[
+				"a",
+				"animTimer"
+			],
+			[
+				"limit",
+				"limitY"
+			],
+			[
+				"lim",
+				"limitX"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"vie",
+				"viewportBottom"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"map",
+				"mapImg"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"ent",
+				"entityList"
+			],
+			[
+				"del",
+				"deltaDir"
+			],
+			[
+				"Co",
+				"CONQUEST"
+			],
+			[
+				"entit",
+				"entity"
+			],
+			[
+				"en",
+				"entityManager"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"move",
+				"movementX"
+			],
+			[
+				"vi",
+				"viewYaw"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"mous",
+				"mouseX"
+			],
+			[
+				"mo",
+				"mouseWorldXMax"
+			],
+			[
+				"cam",
+				"camera"
+			],
+			[
+				"Col",
+				"colAt"
+			],
+			[
+				"mouse",
+				"mouseWorldX"
+			],
+			[
+				"tr",
+				"terrain"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"til",
+				"tileSize"
+			],
+			[
+				"ren",
+				"renderQueue"
+			],
+			[
+				"tic",
+				"tickQueue"
+			],
+			[
+				"image",
+				"imageData"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"end",
+				"endY"
+			],
+			[
+				"start",
+				"startY"
+			],
+			[
+				"lin",
+				"lineWidth"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"center",
+				"centerX"
+			],
+			[
+				"mou",
+				"mouseX"
+			],
+			[
+				"o",
+				"offsetX"
+			],
+			[
+				"ne",
+				"netForce"
+			],
+			[
+				"di",
+				"distY"
+			],
+			[
+				"dis",
+				"distX"
+			],
+			[
+				"dist",
+				"distX"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"chi",
+				"child"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"hei",
+				"heightMap"
+			],
+			[
+				"sky",
+				"skyPivot"
+			],
+			[
+				"Sky",
+				"SkyEarth"
+			],
+			[
+				"on",
+				"onSpawn"
+			],
+			[
+				"Gae",
+				"GAME"
+			],
+			[
+				"su",
+				"surfaceVel1Len"
+			],
+			[
+				"norm",
+				"normalAcc2"
+			],
+			[
+				"nor",
+				"normalAcc1"
+			],
+			[
+				"_",
+				"_normalAcc"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"Th",
+				"THREE"
+			],
+			[
+				"prev",
+				"prevVelocity"
+			],
+			[
+				"mass",
+				"massRatio"
+			],
+			[
+				"mu",
+				"multiplyScalar"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"set",
+				"setLinearVelocity"
+			],
+			[
+				"acc",
+				"_acceleration"
+			],
+			[
+				"fo",
+				"_force"
+			],
+			[
+				"mul",
+				"multiply"
+			],
+			[
+				"height",
+				"heightMap"
+			],
+			[
+				"esc",
+				"escVec"
+			],
+			[
+				"pr",
+				"projX"
+			],
+			[
+				"up",
+				"updateBounds"
+			],
+			[
+				"coll",
+				"collider"
+			],
+			[
+				"phy",
+				"physics"
+			],
+			[
+				"sph",
+				"sphere"
+			],
+			[
+				"s",
+				"sphere"
+			],
+			[
+				"C",
+				"Collider"
+			],
+			[
+				"sphe",
+				"sphere1"
+			],
+			[
+				"th",
+				"treshDist"
+			],
+			[
+				"z",
+				"zWorld"
+			],
+			[
+				"x",
+				"xWorld"
+			],
+			[
+				"aa",
+				"aabb"
+			],
+			[
+				"heigh",
+				"heightMap"
+			],
+			[
+				"aabb",
+				"aabbMinY"
+			],
+			[
+				"max",
+				"maxHeight"
+			],
+			[
+				"ha",
+				"halfHeight"
+			],
+			[
+				"He",
+				"heightField"
+			],
+			[
+				"delta",
+				"deltaPos"
+			],
+			[
+				"c",
+				"collider"
+			],
+			[
+				"ab",
+				"absProjZ"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"proj",
+				"projVec1"
+			],
+			[
+				"dee",
+				"deepestPointDist"
+			],
+			[
+				"ver",
+				"vertexShader"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"deep",
+				"deepestPoint"
+			],
+			[
+				"deepe",
+				"deepestPointDist"
+			],
+			[
+				"plan",
+				"plane"
+			],
+			[
+				"co",
+				"collider"
+			],
+			[
+				"nex",
+				"nextV"
+			],
+			[
+				"curr",
+				"currV"
+			],
+			[
+				"de",
+				"delta"
+			],
+			[
+				"m",
+				"multiplyScalar"
+			],
+			[
+				"cur",
+				"currV"
+			],
+			[
+				"pre",
+				"_prevAcceleration"
+			],
+			[
+				"mult",
+				"multiplyScalar"
+			],
+			[
+				"delt",
+				"deltaPos"
+			],
+			[
+				"vecto",
+				"Vector3"
+			],
+			[
+				"phyic",
+				"physicsSim"
+			],
+			[
+				"u",
+				"updateBounds"
+			],
+			[
+				"enti",
+				"entityList"
+			],
+			[
+				"e",
+				"entity1"
+			],
+			[
+				"hal",
+				"halfWidth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 571,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scenes.js",
+			"settings":
+			{
+				"buffer_size": 3277,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/outofbreath.js",
+			"settings":
+			{
+				"buffer_size": 5837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/entities.js",
+			"settings":
+			{
+				"buffer_size": 8980,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/guis.js",
+			"settings":
+			{
+				"buffer_size": 3939,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/graphics.js",
+			"settings":
+			{
+				"buffer_size": 2732,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/utils.js",
+			"settings":
+			{
+				"buffer_size": 1278,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"to",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"glsl",
+				"Set Syntax: GLSL"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"show",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Yousef/Dropbox/Public/EscPod/OutOfBreath/style.css",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/Conquest.sublime-project",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/src/conquest.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/index.html",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/guis.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/graphics.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/utils.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/style.css",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/entities.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/scenes.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/conquest.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/gui.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/untitled",
+		"/Users/Yousef/Dropbox/Public/EscPod/Conquest/script.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/FileWire/web/css/style.css",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/entities.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/models.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/shaders.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Blog/Writing a Dynamic Sky Shader in GLSL.md",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/shaders/sky.vert",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/shaders/sky.frag",
+		"/Users/Yousef/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/microphysics.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/net.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/audio.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/models/player/torso.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/models/player/head.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/models/player/head.blend",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/gui.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/style.css",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/models/tools/axe.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/physics/physi.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/tween.min.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/three.min.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/models/portalradio/portalradio.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/models/tree/tree.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/datachannel.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/terrain.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/test/inventory.html",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/world.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/player.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/input.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/utils.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/models/tree/stump.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/models/tree/timber.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/noise.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/shaders/terrain.frag",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/server/server.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/peer.min.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/shaders/water.vert",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/shaders/water.frag",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/tools/starchart.html",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/shaders/terrain.vert",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/shaders/starfield.vert",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/client/shaders/starfield.frag",
+		"/Users/Yousef/Desktop/4YTech/public_html/amarengine/node-v0.10.1/server.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/server/utils.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/server/client.html",
+		"/Users/Yousef/Dropbox/Public/EscPod/SocketTesting/socket.io.min.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/net.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/main.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/index.html",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/input.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/audio.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/player.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/utils.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/models/player/torso.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/entities.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/models/player.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/models/animation.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/models/riggid3D.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/models/player.blend",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/riggid3D.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/world.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/three.min.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/style.css",
+		"/Users/Yousef/Dropbox/Public/EscPod/SocketTesting/client.html",
+		"/Users/Yousef/Desktop/fiddle.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/playercontroller.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/gui.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/PointerLockControls.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/FirstPersonControls.js",
+		"/Users/Yousef/Dropbox/Public/EscPod/Three/game.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Three/game.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Sockets/server.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Three/server.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Three/FirstPersonControls.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Three/three.min.js",
+		"/Users/Yousef/Downloads/sample/index.html",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Three/scene.js",
+		"/Users/Yousef/Downloads/mrdoob-three.js-cc57273/README.md",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/gfx/glMat.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/gfx/shader.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/core/utils.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/gfx/shaders/color.frag",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/gfx/shaders/color.vert",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/entities/shapes.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/gfx/gl.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/gfx/screen.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/core/main.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/index.html",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/utils.js",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/gfx/shaders/std.vert",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Games/gfx/shaders/std.frag",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Sites/index.html",
+		"/Users/Yousef/Dropbox/Public/Escape Pod/Sites/Yousef/index.html",
+		"/private/etc/apache2/original/httpd.conf",
+		"/private/etc/apache2/httpd.conf",
+		"/private/etc/hostconfig",
+		"/private/etc/apache2/users/Yousef.conf",
+		"/Library/WebServer/Documents/index.html.en",
+		"/Users/Yousef/Sites/index.html",
+		"/Users/Yousef/Dropbox/Escape Pod/Games/gfx/shaders/std.vert",
+		"/Users/Yousef/Dropbox/Escape Pod/Games/gfx/shaders/std.frag",
+		"/Users/Yousef/Dropbox/Escape Pod/Games/gfx/gl.js",
+		"/Users/Yousef/Dropbox/Escape Pod/Games/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/Yousef/Dropbox/Public/EscPod/Three,*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sprite",
+			"this.",
+			"Bubble",
+			"animTimer",
+			"weedCount",
+			"SeaWeed",
+			"animTimer",
+			"this.y",
+			"Player",
+			"32",
+			"1",
+			"ground",
+			"Pixels per tick",
+			"this",
+			"entity",
+			"camSpeed",
+			"camera",
+			"CONQUEST",
+			"tileSize",
+			"tiles",
+			"tileS",
+			"tiles",
+			"tileS",
+			"tiles",
+			"GUIMainMenu",
+			"CONQUEST",
+			"tileMap",
+			"CONQUEST",
+			"context",
+			"current",
+			"{e: element}",
+			"a",
+			"head",
+			"e",
+			"AMARPORT.Node",
+			"Node",
+			"st",
+			"ct",
+			"st",
+			"ct",
+			"Vec2",
+			"e",
+			"gfx",
+			"((this.player.mouseWorldY/tileSize)>>0)",
+			"button",
+			"selectedBuilding",
+			"gfx",
+			"subElements.add",
+			"GAME.world",
+			"GAME",
+			"SCRIPT",
+			"canvas.width/2",
+			"canvas.height/2",
+			"	\n",
+			"water",
+			"2",
+			"1",
+			"^(.*)$",
+			"/^(.*)$/",
+			"^(.*)$",
+			"x",
+			"z",
+			"X",
+			"x",
+			"onCollisionWithEntity",
+			"radioMesh",
+			"Proj",
+			"proj",
+			"physics",
+			"zCen",
+			"xCen",
+			"console.l",
+			"zFloor",
+			"xFloor",
+			"i",
+			"entity2.collider._",
+			"entity1.collider._velocity",
+			"X",
+			".x",
+			"x",
+			"X",
+			"'$",
+			"^\\t*",
+			"^(.*)$",
+			"radius",
+			"rad",
+			"maxZ",
+			"minZ",
+			"maxY",
+			"minY",
+			"maxX",
+			"minX",
+			"Physijs",
+			".\n",
+			"Rigid",
+			"Queue",
+			"^(.*)$",
+			";\n",
+			"game.player",
+			"\"",
+			"axemesh",
+			"'",
+			"Physijs",
+			"setRotationFromEuler",
+			"ease",
+			"map",
+			"tick",
+			"tickqu",
+			"tickList",
+			"\"",
+			"ball",
+			"( ",
+			"seed",
+			"sunPivot",
+			"send",
+			"setRotationFromEuler",
+			"makeRotationFromEuler",
+			"fromarray",
+			"user.name",
+			"connection.emit",
+			"GAME.net.socket",
+			"extra",
+			"extras",
+			"extra",
+			"openSocket",
+			"onRoomFound",
+			"joinRoom",
+			"channel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								507,
+								507
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/scenes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2272,
+								2272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 739.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/outofbreath.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								769,
+								769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/entities.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6996,
+								6996
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/guis.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1863,
+								1863
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 275.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/graphics.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 536.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/utils.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "OutOfBreath.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Public/EscPod/Three/Three.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
