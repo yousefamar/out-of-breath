@@ -71,6 +71,16 @@ var OOB = {
 
 		var canvas = document.getElementById('canvas');
 
+		if ((() => {
+			try {
+				return window.self !== window.top;
+			} catch (e) {
+				return true;
+			}
+		})()) {
+			canvas.style.marginTop = 0;
+		}
+
 		canvas.addEventListener('mousedown', function (event) {
 			game.currentGUI.mouseDown(event.offsetX||event.layerX||0, event.offsetY||event.layerY||0, event) ||
 				game.currentScene.mouseDown(event.offsetX||event.layerX||0, event.offsetY||event.layerY||0, event);
